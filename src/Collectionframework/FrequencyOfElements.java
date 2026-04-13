@@ -10,11 +10,11 @@ import java.util.HashMap;
             HashMap<Integer, Integer> freqMap = new HashMap<>();
 
             for (int num : arr) {
-                // If element exists, increment count; else set to 1
+                
                 freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
             }
 
-            // Print frequencies
+            
             for (int key : freqMap.keySet()) {
                 System.out.println(key + " -> " + freqMap.get(key));
             }
