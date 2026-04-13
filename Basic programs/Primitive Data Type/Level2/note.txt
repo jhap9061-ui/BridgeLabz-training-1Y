@@ -1,0 +1,10 @@
+java is not full object oreinted because it supports premetive data types
+Wrraper clases are stored inside Java.lang packages 
+java totally depends on objects 
+wrapper is the conversion of premitive data types
+unboxing---object---prim
+1.collections ---  wrapper clases is used in this 
+int n = null;
+2.Generics
+3.predefined
+
